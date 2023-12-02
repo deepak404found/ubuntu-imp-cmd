@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Shutdown App
+Exec=gnome-session-quit --power-off
+Comment=Shutdown button for Ubuntu dock
+Terminal=false
+Type=Application
+Icon=system-shutdown
