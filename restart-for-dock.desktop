@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Restart App
-Exec=reboot -y
-Comment=Restart the system
-Terminal=false
-Type=Application
-Icon=system-reboot
