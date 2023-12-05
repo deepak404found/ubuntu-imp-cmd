@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Restart
+Exec=reboot
+Comment=Restart the system
+Terminal=false
+Type=Application
+Icon=system-reboot
